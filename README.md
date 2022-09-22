@@ -1,5 +1,7 @@
 # Interface basica criada em JAVA
 
+O projeto deve ser "rodado" a partir do "ImportaDados.java"
+
 Atualmente não possui metodos de validação em todos os campos.
 
 Interface basica criada como um projeto de faculdade.
